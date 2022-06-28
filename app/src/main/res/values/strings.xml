@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Submission</string>
+    <string name="name">name</string>
+    <string name="username">username</string>
+    <string name="location">location</string>
+    <string name="company">Company</string>
+    <string name="respository">penyimpanan</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+    <string name="follow">followers</string>
+    <string name="folowing">following</string>
+    <string name="share">Share</string>
+    <string name="search">search</string>
+    <string name="search_hint">Masuukan Kata</string>
+    <string name="blog">blog</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="public_repos">Public Repos</string>
+    <string name="public_geits">Public Geits</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="avatar_url">avatar_url</string>
+
+
+</resources>
